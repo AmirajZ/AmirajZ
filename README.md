@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirajZ(Activily looking for full time position)
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 👀 I’m interested in Data,Web3.0
+- 🌱 Currently Learning Javascript,Solidity
 - 💞️ I'm Certified Python, MySQL, PowerBI
 - 📫 How to reach me -
 - LinkedIN = https://www.linkedin.com/in/amirajsinh-zala-806346179
