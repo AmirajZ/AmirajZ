@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AmirajZ(Activily looking for full time position)
-- 👀 I’m interested in Data,Web2.0,Web3.0
-- 💞️ I'm Certified Python, MySQL, PowerBI
+- 👋 Hi, I’m @AmirajZ(iOS Developer)
+- 💞️ I'm Certified Python, MySQL, PowerBI,iOS Devloper
 - 📫 How to reach me -
 - LinkedIN = https://www.linkedin.com/in/amirajsinh-zala-806346179
 - Mail-ID = amirajzala@gmail.com
