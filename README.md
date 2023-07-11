@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirajZ(iOS Developer)
-- 💞️ I'm Certified Python, MySQL, PowerBI,iOS Devloper
+- 💞️ I'm Certified Python, MySQL, PowerBI,Swift
 - 📫 How to reach me -
 - LinkedIN = https://www.linkedin.com/in/amirajsinh-zala-806346179
 - Mail-ID = amirajzala@gmail.com
